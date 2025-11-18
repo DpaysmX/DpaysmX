@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Dpaysm
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&repeat=false&width=435&height=80&lines=DPAYSM" alt="Dpaysm" />
+</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Binary+Exploitation+%F0%9F%94%A5;Reverse+Engineering+%F0%9F%94%8D;Penetration+Testing+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Researcher+%F0%9F%92%BB" alt="Typing SVG" />
 
