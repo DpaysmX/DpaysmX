@@ -1,10 +1,16 @@
 <div align="center">
-  
-💻 Dpaysm
 
-<div align="center">
+# 👨‍💻 Dpaysm
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Binary+Exploitation;Reverse+Engineering;Penetration+Testing;CTF+Player" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Binary+Exploitation+%F0%9F%94%A5;Reverse+Engineering+%F0%9F%94%8D;Penetration+Testing+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Researcher+%F0%9F%92%BB" alt="Typing SVG" />
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dpaysm&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dpaysm)
+
+<br>
+
+### _"Freedom is the oxygen of the soul"_ 💭
 
 </div>
 
