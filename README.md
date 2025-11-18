@@ -74,6 +74,8 @@ Memory Corruption • Buffer Overflows • ROP Chains • Shellcode Crafting
 
 </div>
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpaysm&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&hide=html,css,scss,less)
 
 ---
