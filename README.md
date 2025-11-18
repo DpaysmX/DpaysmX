@@ -20,7 +20,6 @@
 
 ## 🚀 About Me
 
-```ascii
 ┌─[dpaysm@redteam]─[~]
 └──╼ $ whoami
 
