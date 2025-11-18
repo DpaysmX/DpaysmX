@@ -15,7 +15,7 @@
 
 ## 🚀 Hakkımda
 
-🔹 **Red Team & Penetration Tester**  
+🔹 **Red Team & Penetration Tester**
 🔹 **Web Security | Mobile Analysis | Reverse Engineering**
 🔹 **Payload Crafting**
 🔹 _**Kali / Arch / Debian**_
