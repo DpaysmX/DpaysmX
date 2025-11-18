@@ -17,7 +17,7 @@
 
 <br>
 
-### _"Freedom is the oxygen of the soul"_ 💭
+### _"Freedom"_ 
 
 </div>
 
