@@ -54,8 +54,8 @@ XSS Bypass • SSRF • JWT Exploitation • Path Traversal • SQL/NoSQL Inject
 **📱 Mobile & Reverse**  
 APK Analysis • Frida Hooking • SO Library RE • TLS Pinning Bypass • Firebase Flow Analysis
 
-**🔗 Exploit Chaining**  
-Privilege Escalation • P3+P2→P1 Chains • Persistent Backdoors • Multi-vector Attacks
+**🔗 Binary Exploitation**
+Memory Corruption • Buffer Overflows • ROP Chains • Shellcode Crafting
 
 ---
 
