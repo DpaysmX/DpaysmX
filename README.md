@@ -1,13 +1,17 @@
 <div align="center">
 
-# Dpaysm
+# dpaysm
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Binary+Exploitation;Reverse+Engineering;Penetration+Testing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Binary+Exploitation;Reverse+Engineering;Penetration+Testing" alt="Typing Animation" />
 
+  
+<a href="https://github.com/dpaysm">
+  <img src="https://komarev.com/ghpvc/?username=dpaysm&color=00f7ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dpaysm&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dpaysm)
+<br/><br/>
 
-### _"Freedom"_
+### _"Freedom"_  
 
 </div>
 
