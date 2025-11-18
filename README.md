@@ -1,12 +1,13 @@
 <div align="center">
 
-# 🧿 dpaysm
+# Dpaysm
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Red+Team+%26+Penetration+Tester;Exploit+Chain+Specialist;Security+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Binary+Exploitation;Reverse+Engineering;Penetration+Testing" alt="Typing SVG" />
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dpaysm&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dpaysm)
 
-### _"Gereksiz süs sevmem; iş çözerim."_
+### _"Freedom"_
 
 </div>
 
@@ -15,11 +16,9 @@
 ## 🚀 Hakkımda
 
 🔹 **Red Team & Penetration Tester**  
-🔹 **Sezgisel Exploit Zincirleme** *(P3 + P2 → P1)*  
-🔹 Web Security | Mobile Analysis | Reverse Engineering  
-🔹 **Payload Crafting** uzmanı  
-🔹 **CTF**: 20–25 arası çözülmüş  
-🔹 **Kali / Arch / Debian** kullanıcısı  
+🔹 **Web Security | Mobile Analysis | Reverse Engineering**
+🔹 **Payload Crafting**
+🔹 _**Kali / Arch / Debian**_
 
 ---
 
@@ -33,7 +32,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-4EAA25?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Security Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -62,11 +61,7 @@ Privilege Escalation • P3+P2→P1 Chains • Persistent Backdoors • Multi-ve
 
 ## 🌱 Şu An Öğreniyorum
 
-- 🔐 TLS Pinning bypass (rootless)
-- 📲 Firebase/GMS notification flow
-- 💾 C#/PHP ile custom DB architecture
-- 🤖 GGUF models & Lain-style AI personality
-- 🎯 Advanced persistence techniques
+- 🎯 Expert Binary Exploitation
 
 ---
 
@@ -83,36 +78,13 @@ Privilege Escalation • P3+P2→P1 Chains • Persistent Backdoors • Multi-ve
 
 ---
 
-## 🧪 Aktif Projeler
-
-| 🎯 Proje | 📝 Açıklama | ⚡ Durum |
-|---------|-------------|---------|
-| 🔬 Web + Mobile Pentest | Zafiyet analizi & exploit dev | `Active` |
-| 📡 Network Pentest | Enterprise security assessment | `Active` |
-| 🧩 SO Library RE | Native library analysis | `In Progress` |
-| 🤖 Lain AI Project | AI personality modeling | `Research` |
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![CTF](https://img.shields.io/badge/CTF_Solved-20--25-00f7ff?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Exploits](https://img.shields.io/badge/Exploit_Chains-P3+P2→P1-ff0000?style=for-the-badge&logo=hackaday&logoColor=white)
-![Payloads](https://img.shields.io/badge/Custom_Payloads-Expert-00ff00?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</div>
-
----
-
 ## 🌍 İletişim
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dpaysm)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpaysm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azeriyxa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dpaysm)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpaysmx)
 
 </div>
 
@@ -124,6 +96,6 @@ Privilege Escalation • P3+P2→P1 Chains • Persistent Backdoors • Multi-ve
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<sub>⭐️ From [dpaysm](https://github.com/dpaysm) with 🧿</sub>
+<sub>⭐️ From [dpaysm](https://github.com/dpaysm)</sub>
 
 </div>
